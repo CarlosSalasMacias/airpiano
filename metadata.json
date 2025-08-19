@@ -1,0 +1,7 @@
+{
+  "name": "Mano Musical",
+  "description": "Una aplicación web interactiva que transforma los movimientos de tus manos y dedos en música en tiempo real utilizando tu webcam. Cambia de instrumento y crea melodías con gestos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
